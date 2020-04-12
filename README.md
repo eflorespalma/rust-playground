@@ -1,2 +1,2 @@
 # rust-playground
-This repo include some code snippets
+This repo will have some code snippets of what I will be learning about Rust :)
